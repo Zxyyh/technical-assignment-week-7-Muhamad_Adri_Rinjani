@@ -22,6 +22,7 @@ Perkenalkan namaku Muhamad Adri Rinjani
 Aku berasal dari Bandung
 
 Salam Kenal :D
+
 C:\Users\Adri\m_adri_rinjani\sekolah>touch portfolio.txt
 Touching portfolio.txt
 
@@ -39,6 +40,7 @@ Perkenalkan namaku Muhamad Adri Rinjani, saya memiliki kegemaran
 - Bermain Game
 - Menonton Film
 - Bermain Game Kembali
+
 C:\Users\Adri\m_adri_rinjani\kerja>cd..
 
 C:\Users\Adri\m_adri_rinjani>cd sekolah
